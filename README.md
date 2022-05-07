@@ -4,9 +4,8 @@
 - 💬 Ask me about **Python, web penetration testing, offensive security**.
 
 #### My stats
-[![datthinh1801's GitHub stats](https://github-readme-stats.vercel.app/api?username=datthinh1801&count_private=true&show_icons=true)](https://github.com/datthinh1801/datthinh1801)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=datthinh1801)](https://github.com/datthinh1801/datthinh1801)
+[![datthinh1801's GitHub stats](https://github-readme-stats.vercel.app/api?username=datthinh1801&count_private=true&show_icons=true)](https://github.com/datthinh1801/datthinh1801)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=datthinh1801&layout=compact)](https://github.com/datthinh1801/datthinh1801)
 
 #### My pins
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=datthinh1801&repo=BubblesOfTrust-BBTrust-)](https://github.com/datthinh1801/BubblesOfTrust-BBTrust-)
