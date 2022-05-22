@@ -9,10 +9,9 @@
 
 #### My pins
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=datthinh1801&repo=BlackhatPython)](https://github.com/datthinh1801/BlackhatPython)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=datthinh1801&repo=BubblesOfTrust-BBTrust-)](https://github.com/datthinh1801/BubblesOfTrust-BBTrust-)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=datthinh1801&repo=NT534.M21.ANTN)](https://github.com/datthinh1801/NT534.M21.ANTN)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=datthinh1801&repo=Homomorphic-Encryption-on-Logistic-Regression)](https://github.com/datthinh1801/Homomorphic-Encryption-on-Logistic-Regression)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=datthinh1801&repo=NT106.DNS-simulation)](https://github.com/datthinh1801/NT106.DNS-simulation)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=datthinh1801&repo=NT521.M11.ANTN-19520982)](https://github.com/datthinh1801/NT521.M11.ANTN-19520982)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=datthinh1801&repo=CEPH-deployment)](https://github.com/datthinh1801/CEPH-deployment)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=datthinh1801&repo=Journey-Make-It-Easy)](https://github.com/datthinh1801/Journey-Make-It-Easy)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=datthinh1801&repo=OxLet)](https://github.com/datthinh1801/OxLet)
