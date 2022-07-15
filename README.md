@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm datthinh1801 - an aspire ethical hacker and researcher 🧑‍💻
-- 🔭 I’m currently working at **University of Information Technology - Vietnam National University Ho Chi Minh City**.
-- 🌱 I’m currently learning **cyber security**.
-- 💬 Ask me about **Python, web penetration testing, offensive security**.
+- 🔭 I’m currently studying working as an **application security engineer** (but mostly **web**).
+- 🌱 I’m currently learning a variety of things, such as web exploitation, Golang, *more* Python, some soft skills like speed reading, English as well as cooking and health-related stuff.
+- 💬 Ask me about **Python, web penetration testing, offensive security, tools**.
 
 #### My stats
 [![datthinh1801's GitHub stats](https://github-readme-stats.vercel.app/api?username=datthinh1801&count_private=true&show_icons=true)](https://github.com/datthinh1801/datthinh1801)
