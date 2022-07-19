@@ -1,4 +1,6 @@
-<img src=https://user-images.githubusercontent.com/44528004/179768685-e6dd5363-969a-490e-8d78-77b8569776ca.png style="width:100%">  
+<img src="https://user-images.githubusercontent.com/44528004/179769116-30fd299a-0705-49b1-847c-15eef884ad32.png" style="width:100%">  
+
+
 
 ### Hi there 👋 I'm datthinh1801 - an aspire ethical hacker and researcher 🧑‍💻
 - 🔭 I’m currently studying working as an **application security engineer** (but mostly **web**).
