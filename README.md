@@ -4,7 +4,7 @@
 ### My languages & tools ⚒️
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,c,cs,cpp,cloudflare,css,discord,django,docker,figma,flask,git,github,go,graphql,html,instagram,js,jenkins,jquery,latex,linux,md,mongodb,php,postgres,py,pytorch,raspberrypi,regex,solidity,sqlite,stackoverflow,tensorflow,vim,vscode,vue" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,aws,bash,c,cs,cpp,cloudflare,css,discord,django,docker,figma,flask,git,github,githubactions,go,graphql,html,instagram,js,jenkins,jquery,latex,linux,md,mongodb,php,postgres,py,pytorch,raspberrypi,regex,solidity,sqlite,stackoverflow,tensorflow,vim,vscode,vue" />
   </a>
 </p>
 
