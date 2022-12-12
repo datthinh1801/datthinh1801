@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/44528004/179769116-30fd299a-0705-49b1-847c-15eef884ad32.png" style="width:100%">  
+<!-- <img src="https://user-images.githubusercontent.com/44528004/179769116-30fd299a-0705-49b1-847c-15eef884ad32.png" style="width:100%">  
 
 
 ### My languages & tools ⚒️
@@ -11,15 +11,15 @@
 ### About me 🙈
 - 🔭 I’m currently working as an **application security engineer** (but mostly **web application** 🕸️).
 - 🌱 I’m currently learning a variety of things, such as web exploitation, Golang, *more* Python, some soft skills like speed reading, English, as well as cooking and health-related stuff 🏊.
-- 💬 Ask me about **Python, web penetration testing, offensive security, tools**.  
+- 💬 Ask me about **Python, web penetration testing, offensive security, tools**.   -->
 
 
-### My stats 📊
+<!-- ### My stats 📊
 [![datthinh1801's GitHub stats](https://github-readme-stats.vercel.app/api?username=datthinh1801&count_private=true&show_icons=true)](https://github.com/datthinh1801/datthinh1801)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=datthinh1801&layout=compact)](https://github.com/datthinh1801/datthinh1801)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=datthinh1801&layout=compact)](https://github.com/datthinh1801/datthinh1801) -->
 
-### More about me 🤔
+<!-- ### More about me 🤔 -->
 <img src="https://user-images.githubusercontent.com/44528004/179774156-0d4abc86-160e-4726-9859-82a40d1d957d.png" style="width:850px">
 
 ![](https://github.com/saadeghi/saadeghi/raw/master/dino.gif)
